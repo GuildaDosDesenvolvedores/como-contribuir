@@ -10,6 +10,6 @@ Repositório de contribuição open source da Guilda dos Desenvolvedores.
 Como contribuir?
 > Basta criar uma issue, no título dizer o problema e na descrição a resolução do problema.
 
-Pode ser abertas issues para melhorias e feedbacks sobre a Guilda dos Desenvolvedores, a opinião de vocês é sempre bem vinda!
+Pode ser abertas issues para melhorias e feedbacks sobre a Guilda dos Desenvolvedores, a opinião e a contribuição de vocês é sempre bem vinda!
 
-> Atenciosamente, [Lewoaragao](https://github.com/Lewoaragao).
+Atenciosamente, [Lewoaragao](https://github.com/Lewoaragao).
