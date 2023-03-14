@@ -1,4 +1,4 @@
-# como-contribuir
+# Como contribuir?
 Repositório de como contribuir com a comunidade open source da Guilda dos Desenvolvedores.
 
 > Nesse repositório serão criadas contribuições para a comunidade open source, seja resolvendo issue de erros frequentes, dicas ou apontando para projetos da Guilda dos Desenvolvedores que resolvam algum problema exposto pela comunidade.
