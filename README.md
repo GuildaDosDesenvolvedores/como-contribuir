@@ -5,7 +5,7 @@ Repositório de como contribuir com a comunidade open source da Guilda dos Desen
 
 |    Problema       |    Resolução  |     Autor     |
 |:-------------:|:-------------:|:-------------:|
-| Site fraudulento |  [Link]() | [Lewoaragao](https://github.com/Lewoaragao) |
+| Site fraudulento |  [Link](https://github.com/GuildaDosDesenvolvedores/como-contribuir/issues/1) | [Lewoaragao](https://github.com/Lewoaragao) |
 
 Como contribuir?
 > Basta criar uma issue, no título dizer o problema ou dica e na descrição falar sobre mais como ser desenvolvido.
